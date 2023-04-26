@@ -1,1 +1,1 @@
-# While-Loop-Lab
+# While-Loop-Exercise
